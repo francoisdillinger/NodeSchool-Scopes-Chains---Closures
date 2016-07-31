@@ -1,0 +1,1 @@
+Another course from NodeSchool on Scope and closures.
